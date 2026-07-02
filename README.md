@@ -112,8 +112,9 @@ The dashboard provides interactive healthcare analytics including
 
 # Run the application
 
-py -m streamlit run app.py
 ```bash
+py -m streamlit run app.py
+ ```
 
 
 
