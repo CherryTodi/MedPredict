@@ -18,6 +18,10 @@ MedPredict is a Machine Learning-powered healthcare application that predicts **
 
 ---
 
+# Live Demo
+
+https://medpredict-rv6vungo5ceftgblgbbk3m.streamlit.app/
+
 # Application Preview
 
 ## Home
