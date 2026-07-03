@@ -23,7 +23,7 @@ st.markdown("""
 /* Hide Streamlit Menu */
 #MainMenu {visibility:hidden;}
 footer {visibility:hidden;}
-header {visibility:hidden;}
+/* header {visibility:hidden;} */
 
 .stApp{
     background:#F6F9FC;
